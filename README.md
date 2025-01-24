@@ -14,10 +14,16 @@
 
 <div>
   <h3>⚙️ Linguagens</h3>
+
+![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+  
 </div>
 
 <div>
   <h3>📝 Editor de Código</h3>
+  
+  
+
 </div>
 
 <div>
