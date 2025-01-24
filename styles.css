@@ -1,0 +1,31 @@
+body {
+    background-color: #042940; 
+}
+
+header {
+    color: #005C53;
+    font-weight: bold;
+}
+
+p {
+    color: #9FC131;
+}
+
+h1 {
+    color: #DBF227;
+    font: verdana;
+    font-weight: bold;
+}
+
+footer {
+    color: #D6D58E;
+}
+
+button {
+    background-color: #005c53;
+    border-bottom-color: #005c53;
+}
+
+strong {
+    color: #DBF227;
+}
