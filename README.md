@@ -15,7 +15,7 @@
 <div>
   <h3>⚙️ Linguagens</h3>
 
-![Static Badge](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
+![HTML5](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red) ![CSS3](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=%231572B6)
   
 </div>
 
