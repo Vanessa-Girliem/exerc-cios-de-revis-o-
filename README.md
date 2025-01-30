@@ -6,9 +6,9 @@
 <p>Ao desenvolver ele, tínhamos como ideia criar um site que continha:</p>
 <ul>
   <li>Slogan do(a) profissional;</li>
-  <li>Área de atuação e linguagens conhecidas</li>
+  <li>Área de atuação e linguagens conhecidas;</li>
   <li>Imagem;</li>
-  <li>Meios de contato</li>
+  <li>Meios de contato;</li>
 </ul>
 </div>
 
