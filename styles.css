@@ -1,31 +1,62 @@
-body {
-    background-color: #042940; 
+body{
+    background-color: #102820;
+    color: #caba9c;
 }
 
-header {
-    color: #005C53;
-    font-weight: bold;
+button{
+    background-color: #eaf1ac;
+    border-radius: 20px;
+    border: none;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: 600;
 }
 
-p {
-    color: #9FC131;
+button a{
+    color: #1c3741;
+    text-decoration: none;
 }
 
-h1 {
-    color: #DBF227;
-    font: verdana;
-    font-weight: bold;
+img{
+    border-radius: 20px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    height: 180px;
+    weight: 180px;
 }
 
-footer {
-    color: #D6D58E;
+.contact{
+    background-color: #6e8649;
+    color: #e4e4e4;
+    border-radius: 20px;
+    margin-top: 12px;
+    margin-bottom: 12px;
 }
 
-button {
-    background-color: #005c53;
-    border-bottom-color: #005c53;
+.contact-info{
+    font-size: 15px;
+    padding-top: 15px;
+    font-weight: 700;
 }
 
-strong {
-    color: #DBF227;
+.agradecimentos{
+    padding-bottom: 12px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.cabeçalho{
+    background-color: #eaf1ac;
+    color: #121212;
+    padding-left: 25px;
+    padding-right: 30px;
+    font-weight: 600;
+    font-size: 13px;
+    align-items: center;
+    margin-top: 20px;
 }
